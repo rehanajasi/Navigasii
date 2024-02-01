@@ -6,7 +6,7 @@
 
 }
 body{
-    background: url(sasuke.jpg);
+    background: url(sasuke.jpg) no-repeat;
     background-size: cover;
     height: 100vh;
     background-position: center;
